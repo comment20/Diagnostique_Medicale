@@ -1,0 +1,28 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie
+credentials:
+  usernames:
+    boval:
+      email: bovalgermaintchoupe@gmail.com
+      name: TCHOUPE
+      password: $2b$12$gUtDx2X6lUTrnEYFjAPpBO6//rJshFpN0FfgweRPzhlnbAtMAjADK
+    germain:
+      email: tchoupebovaldisco@gmail.com
+      first_name: TCHOUPE
+      last_name: GERMAIN
+      logged_in: false
+      password: $2b$12$m65L4/JmYXiEXn7IALXaEOVgXG92uiTjHyQq/Pi9CRWsnMajpdo2u
+      roles: null
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: $2b$12$q/PqvaNzae8X7EjRYIsgD.bN1oGvde6EiRCMnZLTukGUZMFaHSes.
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$Sk0vwL5jO/rrDbGseXuLu.a3JZEnYjujJLWvGp./Ojy.9Rc54DL9q
+preauthorized:
+  emails:
+  - melsby@gmail.com
